@@ -1,0 +1,16 @@
+9.
+An error occurred when I ran the command "git checkout main" because the changes would be overwritten by the checkout, so in order to not get the error, I have to commit the changes.
+
+10. 
+"git add filename" adds only the file w/ the name specified
+"git add *" adds all files that don't start with a dot
+"git add ." adds all files
+
+12.
+Yes it worked and the changes are in "waitisthiscool"
+
+13.
+It says that README.md has been deleted
+
+16.
+Error because you cannot push to a branch that we are not in/using.
