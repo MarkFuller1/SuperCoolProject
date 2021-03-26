@@ -1,1 +1,3 @@
 # SuperCoolProject
+
+Trae Stevens
