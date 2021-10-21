@@ -1,6 +1,3 @@
 # SuperCoolProject
 ## Maiqi Hou
-
-Guys im having second thoughts, this might not be as cool as I thought.
-
-Mark Fuller
+This Lab9 part 1
