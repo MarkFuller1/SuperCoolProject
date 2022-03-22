@@ -1,1 +1,3 @@
 # SuperCoolProject
+
+Yihan Zhang
