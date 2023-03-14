@@ -1,5 +1,5 @@
 # SuperCoolProject
 
-Guys im having second thoughts, this might not be as cool as I thought.
+Taking Software with Dr. Song maybe read the book before an exam
 
-Mark Fuller
+Joshua Linnett
