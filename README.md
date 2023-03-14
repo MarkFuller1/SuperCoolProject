@@ -1,5 +1,5 @@
 # SuperCoolProject
 
-Guys im having second thoughts, this might not be as cool as I thought.
+This readme is awesome because it is mine and not Mark Fuller's.
 
-Mark Fuller
+Andrew Hamara
