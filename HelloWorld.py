@@ -1,1 +1,1 @@
-print("Hello world")
+print("".join(chr(i) for i in [72, 101, 108, 108, 111, 32, 87, 111, 114, 108, 100]))
