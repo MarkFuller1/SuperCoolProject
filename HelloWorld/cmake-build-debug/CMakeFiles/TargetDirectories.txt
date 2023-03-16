@@ -1,0 +1,3 @@
+C:/Users/prisc/GitStuff2023/Softwear1Git/SuperCoolProjectLab8/HelloWorld/cmake-build-debug/CMakeFiles/HelloWorld.dir
+C:/Users/prisc/GitStuff2023/Softwear1Git/SuperCoolProjectLab8/HelloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/prisc/GitStuff2023/Softwear1Git/SuperCoolProjectLab8/HelloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
