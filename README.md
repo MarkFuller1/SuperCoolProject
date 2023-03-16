@@ -1,5 +1,5 @@
 # SuperCoolProject
 
-Guys im having second thoughts, this might not be as cool as I thought.
+Guys Git is kinda cool.
 
-Mark Fuller
+Priscilla Leafblad
