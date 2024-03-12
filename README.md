@@ -1,5 +1,5 @@
 # SuperCoolProject
+# My Name is Cole Flenniken
+Lab8 project
 
-Guys im having second thoughts, this might not be as cool as I thought.
-
-Mark Fuller
+Cole Flenniken
