@@ -1,5 +1,5 @@
 # SuperCoolProject
 
-Guys im having second thoughts, this might not be as cool as I thought.
+Yay. This lab is short. Thank you.
 
-Mark Fuller
+Andrew Arthur
