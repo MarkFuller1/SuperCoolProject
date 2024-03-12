@@ -1,5 +1,5 @@
 # SuperCoolProject
 
-Guys im having second thoughts, this might not be as cool as I thought.
+Actually this project is pretty cool.
 
-Mark Fuller
+Devan Sengel
