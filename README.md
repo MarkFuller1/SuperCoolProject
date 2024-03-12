@@ -1,5 +1,8 @@
 # SuperCoolProject
 
-Guys im having second thoughts, this might not be as cool as I thought.
+Software Engineering is for cool kids.
 
-Mark Fuller
+Hopefully I'm one of those.
+
+Chris Thompson
+
