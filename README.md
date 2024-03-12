@@ -1,4 +1,5 @@
 # SuperCoolProject
+Daniel Michael
 
 Hello! Glad to see my homework repo is still being used. Maybe check out some of the other garbage I have kicking around on here?
 
